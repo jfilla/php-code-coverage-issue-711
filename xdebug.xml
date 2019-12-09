@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1575905059">
+  <project timestamp="1575905059">
+    <package name="Src">
+      <file name="/var/www/php-code-coverage-issue-711/src/Example.php">
+        <class name="Src\Example" namespace="Src">
+          <metrics complexity="2" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="3" elements="6" coveredelements="4"/>
+        </class>
+        <line num="9" type="method" name="a" visibility="public" complexity="1" crap="1.04" count="1"/>
+        <line num="11" type="stmt" count="1"/>
+        <line num="12" type="stmt" count="0"/>
+        <line num="13" type="stmt" count="1"/>
+        <line num="19" type="method" name="b" visibility="private" complexity="1" crap="1" count="1"/>
+        <line num="21" type="stmt" count="1"/>
+        <metrics loc="24" ncloc="24" classes="1" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="3" elements="6" coveredelements="4"/>
+      </file>
+    </package>
+    <metrics files="1" loc="24" ncloc="24" classes="1" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="3" elements="6" coveredelements="4"/>
+  </project>
+</coverage>
